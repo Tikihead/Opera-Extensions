@@ -3,7 +3,7 @@ Opera Extensions
 
 # In Opera:
 cntrl + shift + E ( opens extensions )<br>
-Developer Mode -<br>
+click Developer Mode -<br>
 load upacked extension - for testing.<br>
 pack extension - for permanent use.<br>
 when your extension is packed, copy the .nex file and rename the copy to .crx<br>
