@@ -2,7 +2,7 @@
 Opera Extensions
 
 # In Opera:
-cntrl + shift + E ( opens extensions )
+cntrl + shift + E ( opens extensions )<br>
 Developer Mode -
 load upacked extension - for testing.
 pack extension - for permanent use.
