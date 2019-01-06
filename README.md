@@ -1,3 +1,7 @@
+<style>
+  body{ background-color: #222;
+  color: #888;}
+</style>
 # Opera-Extensions
 Opera Extensions
 
